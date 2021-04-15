@@ -10,6 +10,8 @@ This is assignment 3 of Deep Learning, a course at Institute of Data Science, Na
 
 - File name lists of images: `./data/train.txt`, `./data/val.txt`, and `./data/test.txt`.
 
+- Preprocessed data of the validation and the testing sets have been produced and put under `./data`.
+
 ## Code
 
 -  `experiments.ipynb`: experiments results
