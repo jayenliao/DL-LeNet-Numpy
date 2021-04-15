@@ -52,7 +52,7 @@ This is assignment 3 of Deep Learning, a course at Institute of Data Science, Na
     
     -  `./NonCNN/trainers.py`: class for training, predicting, and evaluating the models
 
-- Source codes for pytorch version for training LeNet-5: `args.py`, `trainer.py`, `model.py`, and `utils.py` under `./lenet_torch/`.
+- Source codes of pytorch version for training LeNet-5: `args.py`, `trainer.py`, `model.py`, and `utils.py` under `./lenet_torch/`.
 
 -  `requirements.txt`: required packages
 
