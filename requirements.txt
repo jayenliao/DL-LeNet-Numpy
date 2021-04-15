@@ -1,0 +1,6 @@
+numpy==1.16.3
+cupy-cuda102==8.6.0      # change this if your cuda version is not 10.2
+pandas==0.24.2
+tqdm==4.50.0
+opencv-python==3.4.2.16
+matplotlib==3.1.3
