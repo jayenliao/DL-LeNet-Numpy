@@ -14,8 +14,6 @@ This is assignment 3 of Deep Learning, a course at Institute of Data Science, Na
 
 ## Code
 
--  `experiments.ipynb`: experiments results
-
 - `main.py`: the main program for training LeNet-5 with NumPy/CuPy
 
 - `main_NonCNN.py`: the main program for training baselines with NumPy
@@ -105,8 +103,6 @@ It may take much time to run the whole `main.py`. The arguments parser can be us
 python3 main.py --sizes_filter 3 3
 python3 main_NonCNN.py --models 'TwoLayerPerceptron' --epochs 100
 ```
-
-You can also directly access the experiments results on `experiments.ipynb`.
 
 ## Reference
 
